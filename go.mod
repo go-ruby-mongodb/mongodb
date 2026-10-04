@@ -1,6 +1,6 @@
 module github.com/go-ruby-mongodb/mongodb
 
-go 1.26.4
+go 1.27.1
 
 require go.mongodb.org/mongo-driver/v2 v2.9.1
 
